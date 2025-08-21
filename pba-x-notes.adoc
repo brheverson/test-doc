@@ -1,4 +1,4 @@
-= PBA-x Wave 3 Compendium: Modules Notes
+= PBA-x Compendium: Wave 3 modules notes
 :doctype: book
 :toc:
 :toclevels: 3
