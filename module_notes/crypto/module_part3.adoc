@@ -1,0 +1,13 @@
+:doctype: book
+:toc:
+:toclevels: 3
+
+= Accounts and Keys
+
+== Accounts
+
+Creating a blockchain account is a simple process, we just need to have a crypto wallet.
+
+== Keys
+
+Computers work using binary data (long strings of 0s and 1s).

@@ -1,0 +1,14 @@
+:doctype: book
+:toc:
+:toclevels: 3
+
+= Module: Introduction to Cryptography 
+
+include::crypto/module_part1.adoc[leveloffset=+1]
+
+include::crypto/module_part2.adoc[leveloffset=+1]
+
+include::crypto/module_part3.adoc[leveloffset=+1]
+
+
+
