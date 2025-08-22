@@ -1,7 +1,6 @@
 :doctype: book
 :toc:
 :toclevels: 3
-:subtitle: Modules Notes (3rd cohort)
 
 = This is the Main Title
 
