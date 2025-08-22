@@ -31,7 +31,8 @@ jobs:
       
       #  Build the HTML files from the source
       - name: Build HTML
-        run: asciidoctor README.adoc -D build/
+        #run: asciidoctor pba-x-notes.adoc -D build/
+        run: asciidoctor pba-x-notes.adoc -o build/index.html
 
       # Runs a set of commands using the runners shell
       - name: Deploy to GitHub Pages
