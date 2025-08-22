@@ -1,0 +1,8 @@
+:doctype: book
+:toc:
+:toclevels: 3
+
+
+== Accounts
+
+Creating a blockchain account is a simple process, we just need to have a crypto wallet.

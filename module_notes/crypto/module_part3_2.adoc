@@ -1,0 +1,8 @@
+:doctype: book
+:toc:
+:toclevels: 3
+
+
+== Keys
+
+Computers work using binary data (long strings of 0s and 1s).

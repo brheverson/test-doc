@@ -4,10 +4,6 @@
 
 = Accounts and Keys
 
-== Accounts
+include::module_part3_1.adoc[leveloffset=+1]
 
-Creating a blockchain account is a simple process, we just need to have a crypto wallet.
-
-== Keys
-
-Computers work using binary data (long strings of 0s and 1s).
+include::module_part3_2.adoc[leveloffset=+1]
