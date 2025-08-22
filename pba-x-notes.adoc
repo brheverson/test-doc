@@ -1,15 +1,16 @@
-= PBA-x Compendium: Wave 3 modules notes
 :doctype: book
 :toc:
 :toclevels: 3
+:subtitle: Modules Notes (3rd cohort)
 
-This document contains comprehensive notes from the third wave of PBA-x, the online version of the Polkadot Blockchain Academy (PBA) program. 
-The primary objective is to transform raw notes from video lessons into well-structured, readable content that serves as a definitive reference guide for learners to refer to and review course material.
+= This is the Main Title
 
 
+== Introduction
 
-include::module_notes/introduction_cryptography.adoc[leveloffset=+1]
+This document contains a test. this is the entry point for my doc.
 
-// include::module_notes/economics_game_theory.adoc[leveloffset=+1]
+// it includes another file
+include::module_notes/intro_module.adoc[leveloffset=+1]
 
-// include::module_notes/fundamentals_blockchains.adoc[leveloffset=+1]
+
