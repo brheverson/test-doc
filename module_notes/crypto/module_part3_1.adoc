@@ -3,6 +3,6 @@
 :toclevels: 3
 
 
-== Accounts
+= Accounts
 
 Creating a blockchain account is a simple process, we just need to have a crypto wallet.
