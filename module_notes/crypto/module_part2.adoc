@@ -1,0 +1,9 @@
+:doctype: book
+:toc:
+:toclevels: 3
+
+= Hashing and Encryption
+
+== Hash functions
+
+Hash functions are one of the fundamental building blocks of cryptography.
